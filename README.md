@@ -1,7 +1,7 @@
 
 # Revel Frontend test
 
-Welcome to the test, may the pug be with you 👋🏼
+Welcome to the test 👋🏼
 
 ![cat](https://i.postimg.cc/kXtSXKM2/119083418-106685401183203-7909642593758319217-n.jpg)
 
