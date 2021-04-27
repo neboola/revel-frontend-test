@@ -3,7 +3,7 @@
 
 Welcome to the test, may the pug be with you 👋🏼
 
-![pug](https://picsum.photos/id/1025/300/300)
+![cat](https://i.postimg.cc/kXtSXKM2/119083418-106685401183203-7909642593758319217-n.jpg)
 
 You will receive an invitation to the design you have to code.
 
