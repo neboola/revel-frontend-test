@@ -23,6 +23,8 @@ The idea is to show a random set of 9 images per load using a fanstastic free-to
 5. The header changes on scroll (the diferences between scolled and not scrolled are in the section 'main-header').
 
 
+Optional: if you think the website is too static, feel free to add animations.
+
 
 Feel free to use any client side JS framework/library but we recommend you to use React or Nextjs.
 
@@ -30,6 +32,6 @@ Focus on  **pixel perfect**, **performance** and **readability**. Consider any c
 
 Write down any assumption you make.
 
-You can share your code with us using a github repository or a google drive link. You can even deploy they project using something like github pages if you want.
+You can share your code with us using a github repository, a google drive link or an email attachment. You can even deploy they project using something like github pages if you want.
 
 Happy coding 🤓
