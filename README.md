@@ -21,11 +21,12 @@ The idea is to show a responsive grid with a set of 9 images per load using a fa
   - Use the list endpoint to get a list of 9 elements.
   - Show the images in the grid and display the author's name on the card as showed in the design (hover in Desktop, below the card in mobile)
   - If load more is clicked, a new set of 9 images should be appended.
+  - The number on the top right of the card is always incremental (01,02,03...)
 3. The filter box needs to filter the grid by author as you type.
  
 Focus on  **pixel perfect**, **performance** and **readability**. Consider **any corner cases**.
 
-Some of the questions we will have in mind while reviewing:
+Some of the aspects we will have in mind while reviewing:
 - Code structure
 - Error handling
 - Attention to detail
